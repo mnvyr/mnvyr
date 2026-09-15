@@ -4,7 +4,7 @@
   </a>
 </p><div>
   <h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
-</div>I am Muhammad Abdurrahman Kawakibi, people usually call me Rahman or Rennjiii. I am an Informatics Engineering student at Malang Institute of Technology. I am a technology enthusiast & open source supporter. Always open to collaborate on innovative and disruptive projects and ideas. Feel free to connect with me here.
+</div>I am Rennjiii. I am an Informatics Engineering student at Malang Institute of Technology. I am a technology enthusiast & open source supporter. Always open to collaborate on innovative and disruptive projects and ideas. Feel free to connect with me here.
 
 <br><h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2><p align="center">
   Here are some of my<br>

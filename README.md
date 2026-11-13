@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **mnvyr**, an Informatics Engineering student at **Malang Institute of Technology** and a passionate Backend Developer.
+Hello! I'm **mnvyr**, an Informatics Engineering student and a passionate Fullstack Developer.
 
 I'm interested in building applications, developing backend systems, exploring new technologies, and contributing to open-source projects.
 

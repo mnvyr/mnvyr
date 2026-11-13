@@ -108,14 +108,8 @@ I enjoy turning ideas into functional, efficient, and maintainable solutions. I'
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/ic.rennjii">
-    <img src="https://img.shields.io/badge/Instagram-ic.rennjii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:kibieptrid@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/kibieptr/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.instagram.com/manvyr">
+    <img src="https://img.shields.io/badge/Instagram-manvyr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/mnvyr">
     <img src="https://img.shields.io/badge/GitHub-mnvyr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
